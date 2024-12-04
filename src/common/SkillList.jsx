@@ -8,3 +8,5 @@ function SkillList({src, skill}) {
 }
 
 export default SkillList
+
+// I did not use this page in my project. // 
